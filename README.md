@@ -8,12 +8,9 @@
   <li>Bootstrap</li>
   <li>MUI</li>
 </ul>
-#React Frame work
-#Javascript Language
-#Bootstrap
-#MUI
 
 #How to run it
-
-#npm install
-#npm run dev
+<ul>
+  <li>npm install</li>
+  <li>npm run dev</li>
+</ul>
