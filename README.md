@@ -2,7 +2,12 @@
 #Users can search for books and alos view there borrowing history
 
 #Technologies Used
-
+<ul>
+  <li>React Frame work</li>
+  <li>Javascript Language</li>
+  <li>Bootstrap</li>
+  <li>MUI</li>
+</ul>
 #React Frame work
 #Javascript Language
 #Bootstrap
