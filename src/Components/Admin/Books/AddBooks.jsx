@@ -44,7 +44,7 @@ function AddBooks() {
                 if(res.status === 201){
                     Swal.fire({
                         title: 'Success!',
-                        text: 'Book added successfully',
+                        text: 'Book added successfully.',
                         icon: 'success',
                         confirmButtonText: 'OK'
                     })
@@ -132,7 +132,7 @@ function AddBooks() {
 
                 <div className="mb-3">
                     <label htmlFor="copies" className="form-label">
-                        Available Copies
+                        Available Book Copies
                     </label>
                     <input
                         type="number"
@@ -163,7 +163,7 @@ function AddBooks() {
 
                 <div className="mb-3">
                     <label htmlFor="summary" className="form-label">
-                        Brief Summary
+                        Brief Book Summary
                     </label>
                     <textarea
                         className="form-control"
